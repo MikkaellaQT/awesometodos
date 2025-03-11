@@ -150,20 +150,3 @@
     background-color: rgba(95, 0, 179, 0.5) ;
   }
  }
- 
-/* put at the bottom of your styles.css file */
-
-@media (max-width: 420px) {
-  .title {
-    font-size: 2.5rem;
-  }
-
-  .form {
-    width: 95%;
-  }
-
-  .todo {
-    width: 95%;
-    font-size: 1.2rem;
-  }
- }
